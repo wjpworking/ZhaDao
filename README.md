@@ -175,7 +175,7 @@
 - [I] Ubuntu： 基于 Debian,（可能是）最流行的桌面发行版，以易用著称。21 世纪 00 年代中后期受到的好评较多。但 2011 年引入的新的 Unity 桌面环境有些不稳定，经常被黑。不过也可以选择预装其它桌面环境的衍生版（如 Kubuntu/Xubuntu/Lubuntu）
   http://ubuntu.com
 
-- [I] Mint：基于 Ubuntu 的发行版，同时有基于 Debian 的版本。特色为简洁。桌面环境偏向传统。
+- [I] Mint：基于 Ubuntu 的发行版，同时有基于 Debian 的版本。特色为简洁，桌面环境偏向传统。
   http://linuxmint.com
 
 - [I+] Centos：服务器比较适用的发行版，比较稳定，RHEL 的社区版。
@@ -187,8 +187,14 @@
 - [I] OpenSUSE：曾经被评价为最华丽的Linux桌面发行版。目标是成为所有人都能够得到的最易于使用的 Linux 发行版。
   http://opensuse.org
 
+  [openSUSE Guide](https://lug.ustc.edu.cn/sites/opensuse-guide/)
+
+  中文 Wiki: https://zh.opensuse.org/
+
 - [II] ArchLinux：滚动升级，高度定制，软件丰富，配置集中的发行版。
   http://archlinux.org
+
+  [中文安装指南](https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
 
 - [II+] Gentoo：安装软件大多数是编译安装，可以调整编译参数，有极高的定制空间。被看作最稳定的滚动升级发行版。
   http://gentoo.org
@@ -198,6 +204,8 @@
 
 - [III] LFS: 从零开始构建系统。
   http://linuxfromscratch.org
+
+  中文安装指南：https://github.com/LCTT/LFS-BOOK，由LFTT进行翻译维护
 
 
 注：Fedora 有时被称作「地沟油」，这只是出自本吧的梗，井不是说这个发行版不行。
@@ -237,6 +245,12 @@
 
 
 详：http://wiki.woodpecker.org.cn/moin/AskForHelp
+
+### 提问的智慧书籍
+
+英文版本：http://www.catb.org/esr/faqs/smart-questions.html
+
+中文版本：https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md
 
 ## 月经帖和一些不合适的发言
 
@@ -371,7 +385,7 @@ lz: 抱歉，打错了，是 ati……
 
 ## Linux 哲学与历史
 
-关于 Linux 的哲学与历史，可以看看《Revolution OS》这部纪录片。
+关于 Linux 的哲学与历史，可以看看《[Revolution OS](https://youtu.be/jw8K460vx1c)》这部纪录片，在国内请使用这个地址进行观看：[bilibili](http://www.bilibili.com/video/av909925/?from=search&seid=9639491025592225225)
 
 ## 关于伸手党
 
@@ -429,6 +443,8 @@ linux 上游戏有不少，只是没有所谓的「主流游戏」（Tencent 系
 
 有的 Windows 游戏可以虚拟机，有的可以用 Wine 启动，而且 Steam 里的游戏多到玩不完，原生游戏也有不少。
 
+当然，你也可以考虑在Linux上使用Steam版本玩游戏，现在许多游戏支持OpenGL或者vulkan，所以现在在Linux玩游戏也是可以的。
+
 ### 推荐网站：
 
 https://linux.cn/
@@ -451,6 +467,11 @@ http://www.linuxsir.org
 但是有一个叫做 Wine 的程序可以运行一部分 Windows 程序：
 
 http://zh.wikipedia.org/wiki/Wine
+
+如果这还不行，可以考虑使用winetricks：
+
+* https://github.com/Winetricks/winetricks
+* https://github.com/hillwoodroc/winetricks-zh
 
 ### 被英语绊倒
 
